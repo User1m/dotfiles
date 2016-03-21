@@ -1,0 +1,20 @@
+# Folders
+
+Applications/*
+Desktop/*
+Documents/*
+Downloads/*
+Library/*
+Movies/*
+Music/*
+Pictures/*
+Public/*
+
+
+.Trash/
+.eclipse/
+.oracle_jre_usage/
+.lldb/
+.p2/
+.bash_sessions/
+.zsh_history

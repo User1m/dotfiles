@@ -1,0 +1,8 @@
+#alias check="checkout"
+alias ll="ls -a"
+alias fs="find"
+alias g="git"
+alias cls="clear"
+alias bspec="/Users/claudius/Documents/workspace/Outlook/app-ios/configurator/configurator.swift"
+alias br="git branch"
+alias comm="commit"
