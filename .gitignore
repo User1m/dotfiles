@@ -10,7 +10,6 @@ Music/*
 Pictures/*
 Public/*
 
-
 .Trash/
 .eclipse/
 .oracle_jre_usage/
@@ -20,4 +19,4 @@ Public/*
 .zsh_history
 .viminfo
 .avidemux6/
-
+.cocoapods/
