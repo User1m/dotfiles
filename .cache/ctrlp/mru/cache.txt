@@ -1,1 +1,2 @@
+/Users/claudius/README.md
 /Users/claudius/Documents/dev_examples/Ex_Files_UaR_vi/Exercise Files/newfile.txt

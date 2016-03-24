@@ -11,3 +11,7 @@ link:https://gist.github.com/kevin-smets/8568070
 	DEFAULT_USER="claudius"
 - source ~/.zshrc
 
+
+### Vim:
+Vim awesome configurations from: https://github.com/amix/vimrc
+
