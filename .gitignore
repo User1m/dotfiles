@@ -20,3 +20,4 @@ Public/*
 .viminfo
 .avidemux6/
 .cocoapods/
+.cache/
